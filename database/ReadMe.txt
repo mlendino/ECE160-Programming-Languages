@@ -1,4 +1,4 @@
-Michael Lendino: Description of files, program, and operation for Assignment 2.
+Description of files, program, and operation for Assignment 2.
 
     The one major goal to this project was to create a simple database for a small firm, which contained 20 records
 for each employee, and each record contained their last name, first and middle names, salary, and the year that
