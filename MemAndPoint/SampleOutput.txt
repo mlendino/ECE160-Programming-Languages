@@ -1,0 +1,25 @@
+0x7ffefed86cd0
+0x7ffefed86cd3
+0x7ffefed86cc8
+0x7ffefed86cd3
+23
+23
+By my calculation, sizeof(char) is 1. In reality, it is 1.
+
+0x7ffefed86c90
+0x7ffefed86ca8
+0x7ffefed86c88
+0x7ffefed86ca8
+34
+34
+By my calculation, sizeof(long) is 8. In reality, it is 8.
+
+Byte 0 of lng: 58
+Byte 1 of lng: 16
+Byte 2 of lng: 2
+Byte 3 of lng: 0
+Byte 4 of lng: 0
+Byte 5 of lng: 0
+Byte 6 of lng: 0
+Byte 7 of lng: 0
+We know that 2(256^2)+(22)(256)+(88)=136792, from what is printed above by converting hex to decimal
